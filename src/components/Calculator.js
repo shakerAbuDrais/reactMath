@@ -41,7 +41,7 @@ class Calculator extends React.Component {
             <td className="tg-qssw">+</td>
           </tr>
           <tr>
-            <td className="tg-kftd" colSpan="2" />
+            <td className="tg-kftd" colSpan="2">0</td>
             <td className="tg-kftd">.</td>
             <td className="tg-qssw">=</td>
           </tr>
