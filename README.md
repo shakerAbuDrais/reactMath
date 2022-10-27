@@ -39,7 +39,7 @@ You may also see any lint errors in the console.
 
 ## Author
 
-👤 **Author1**
+👤 **Shaker AbuDrais**
 
 - GitHub: [@githubhandle](https://github.com/shakerAbuDrais)
 
