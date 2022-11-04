@@ -1,0 +1,25 @@
+.title {
+  font-size: 40px;
+}
+
+.header-nav {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 5%;
+}
+
+.nav-ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  list-style: none;
+}
+
+.mid-li {
+  border-right: 1px solid blue;
+  border-left: 1px solid blue;
+  padding: 0 7px;
+}
