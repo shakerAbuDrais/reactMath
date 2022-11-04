@@ -1,5 +1,5 @@
 import React from 'react';
-import Calculator from './components/Calculator';
+import Header from './components/header';
 
 class App extends React.Component {
   constructor(props) {
@@ -8,7 +8,11 @@ class App extends React.Component {
   }
 
   render() {
-    return (<Calculator />);
+    return (
+      <>
+        <Header />
+      </>
+    );
   }
 }
 
