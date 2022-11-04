@@ -11,7 +11,7 @@ const header = () => (
       <h1 className="title"> Math Magicians </h1>
       <ul className="nav-ul">
         <li>
-          <Link to="/Home"> Home </Link>
+          <Link to="/"> Home </Link>
         </li>
         <li className="mid-li">
           <Link to="/Calculator"> Calculator </Link>
@@ -22,7 +22,7 @@ const header = () => (
       </ul>
     </nav>
     <Routes>
-      <Route path="/Home" element={<Home />} />
+      <Route path="/" element={<Home />} />
       <Route path="/Calculator" element={<Calculator />} />
       <Route path="/Quote" element={<Quote />} />
     </Routes>
